@@ -8,7 +8,11 @@
 
 </div>
 
+<div style='color: red'>
+
 Phase is a kinetic and sonic installation that generates visual and auditory patterns through physical changes. The project was completed in October 2023. Drawing on the history of materials in art, such as tapestry and painting, I used a mechanized frame and fabric as the medium. My aim was to create a dynamic and immersive experience for the audience that could be read in a multitude of ways.
+
+</div>
 
 ![Phase Detaul](./_images/al23_phase_detail.webp)
 
