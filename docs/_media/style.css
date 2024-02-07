@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
 /* Fixes for my layout */
 
 .content {
@@ -6,7 +8,9 @@
 
 .sidebar, .sidebar-toggle {
     width: 0;
+    height: 0;
     visibility: hidden;
+    position: absolute;
 }
 
 img {
@@ -36,8 +40,6 @@ iframe {
 
 /* Adaptive Layout */
 
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700;900&display=swap");
-
 :root {
     /* Layout */
     --count: 64;
@@ -49,8 +51,8 @@ iframe {
     --themeC: #0000ff;
   
     /* Adjusting Font */
-    --fontTextSize: 0.75em;
-    --fontTextSpacing: 0.0465em;
+    --fontTextSize: 1em;
+    --fontTextSpacing: 0.035em;
   
     /* Assigning */
     --colorBackground: var(--themeA);
@@ -100,38 +102,45 @@ body {
     font-family: 'Inter', sans-serif;
     font-size: var(--fontTextSize);
     letter-spacing: var(--fontTextSpacing);
-    line-height: 1rem;
+    line-height: 1.55em;
 }
 
 p,
 aside,
 .embed-container {
-  margin-top: 0;
-  margin-bottom: 2rem;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    line-height: 2rem;
 }
 
 a {
-  text-decoration: none;
-  color: var(--colorLink);
-  transition: color 250ms ease-out, background-color 250ms ease-out;
+    text-decoration: none;
+    color: var(--colorLink);
+    transition: color 250ms ease-out, background-color 250ms ease-out;
 }
 
 a:hover {
-  color: var(--colorBackground);
-  background-color: var(--colorLink);
+    color: var(--colorBackground);
+    background-color: var(--colorLink);
 }
 
 ::selection {
-  color: var(--colorBackground);
-  background: var(--colorText);
+    color: var(--colorBackground);
+    background: var(--colorText);
 }
 
 ::-webkit-scrollbar {
-  width: 0.5rem;
-  background-color: var(--colorBackground);
+    width: 0.5rem;
+    background-color: var(--colorBackground);
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--colorText);
-  outline: 0;
+    background-color: var(--colorText);
+    outline: 0;
 }
