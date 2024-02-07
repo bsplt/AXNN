@@ -36,6 +36,8 @@ iframe {
 
 /* Adaptive Layout */
 
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700;900&display=swap");
+
 :root {
     /* Layout */
     --count: 64;
@@ -95,16 +97,17 @@ html {
 }
 
 body {
-    font-family: monospace;
+    font-family: 'Inter', sans-serif;
     font-size: var(--fontTextSize);
     letter-spacing: var(--fontTextSpacing);
     line-height: 1rem;
 }
 
 p,
-aside {
+aside,
+.embed-container {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 a {
