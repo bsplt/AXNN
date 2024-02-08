@@ -1,5 +1,11 @@
 # Phase
 
+| Key             | Value                          |
+| --------------- | ------------------------------ |
+| Type            | Installation                   |
+| First exhibited | 2023                           |
+| Awards          | Frese Design Award (2nd place) |
+
 ![Phase Total](./_images/al23_phase_total_daylight.webp)
 
 <div class='embed-container'>
