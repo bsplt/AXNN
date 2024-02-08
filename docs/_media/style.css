@@ -175,7 +175,7 @@ td:first-child {
     flex-direction: column;
 }
 
-footer {
+.markdown-section > footer {
     margin-top: auto;
     padding-top: 6rem;
 }

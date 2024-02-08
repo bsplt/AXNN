@@ -1,3 +1,5 @@
+<footer>
+
 Alexander Lehmann<br />
 [See other works](/)
 
@@ -6,3 +8,5 @@ Alexander Lehmann<br />
 [Imprint](impressum.md) – [Privacy Policy](datenschutz.md)
 
 </div>
+
+</footer>
