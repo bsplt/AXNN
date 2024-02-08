@@ -2,10 +2,8 @@
 
 ## Angaben gemäß § 5 TMG
 
-Alexander Lehmann
-
-Bismarckstr. 188
-
+Alexander Lehmann <br />
+Bismarckstr. 188 <br />
 28205 Bremen
 
 ## Kontakt
