@@ -1,5 +1,5 @@
 Alexander Lehmann<br />
-[See all works](/)
+[See other works](/)
 
 <div class='smaller'>
 
