@@ -167,6 +167,12 @@ td:first-child {
     padding-right: 2rem;
 }
 
+.markdown-section:has(.homepage) footer > p {
+    visibility: hidden;
+    margin: 0;
+    height: 0;
+}
+
 /* Bringing footer to bottom */
 
 .markdown-section {
