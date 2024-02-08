@@ -84,7 +84,7 @@ html {
     display: flex;
     justify-content: center;
     overflow-x: hidden;
-    height: 100%;
+    height: 100svh;
     overflow-y: scroll;
     background: var(--colorBackground);
     color: var(--colorText);
@@ -178,7 +178,7 @@ td:first-child {
 /* Bringing footer to bottom */
 
 .markdown-section {
-    height: calc(100vh - env(safe-area-inset-bottom));
+    height: 100svh;
     display: flex;
     flex-direction: column;
 }
