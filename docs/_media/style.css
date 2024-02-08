@@ -11,6 +11,8 @@
     height: 0;
     visibility: hidden;
     position: absolute;
+    margin: 0;
+    padding: 0;
 }
 
 img {
@@ -176,7 +178,7 @@ td:first-child {
 /* Bringing footer to bottom */
 
 .markdown-section {
-    height: 100vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
 }
