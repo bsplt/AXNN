@@ -1,10 +1,10 @@
 # Phase
 
-| Key             | Value                          |
-| --------------- | ------------------------------ |
-| Type            | Installation                   |
-| First exhibited | 2023                           |
-| Awards          | Frese Design Award (2nd place) |
+| Key    | Value              |
+| ------ | ------------------ |
+| Type   | Installation       |
+| Year   | 2023               |
+| Awards | Frese Design Award |
 
 ![Phase Total](./_images/al23_phase_total_daylight.webp)
 

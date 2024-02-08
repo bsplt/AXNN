@@ -35,7 +35,6 @@ iframe {
 .markdown-section { 
     max-width: 100%;
     padding: 0;
-    padding-bottom: 2em;
 }
 
 /* Adaptive Layout */
@@ -107,6 +106,7 @@ body {
 
 p,
 aside,
+table,
 .embed-container {
     margin-top: 0;
     margin-bottom: 2rem;
@@ -143,4 +143,33 @@ a:hover {
 ::-webkit-scrollbar-thumb {
     background-color: var(--colorText);
     outline: 0;
+}
+
+table {
+    font-size: 0.75rem;
+}
+
+thead {
+    visibility: collapse;
+}
+
+td:first-child {
+    padding-right: 2rem;
+}
+
+/* Bringing footer to bottom */
+
+.markdown-section {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    margin-top: auto;
+    padding-top: 6rem;
+}
+
+.smaller {
+    font-size: 0.5rem;
 }

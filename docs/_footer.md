@@ -1,12 +1,11 @@
 <div class='footer'>
 
-Alexander Lehmann
-
-[To Project Overview](/)
+Alexander Lehmann<br />
+[See all works](/)
 
 <div class='smaller'>
 
-[Imprint](impressum.md) – [Data Protection Declaration](datenschutz.md)
+[Imprint](impressum.md) – [Privacy Policy](datenschutz.md)
 
 </div>
 
