@@ -10,6 +10,5 @@ Bismarckstr. 188
 
 ## Kontakt
 
-Instagram: [@a_von_b](https://www.instagram.com/a_von_b/)
-
+Instagram: [@a_von_b](https://www.instagram.com/a_von_b/) <br />
 GitHub: [@bsplt](https://github.com/bsplt)
