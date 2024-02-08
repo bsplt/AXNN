@@ -82,7 +82,7 @@ html {
     display: flex;
     justify-content: center;
     overflow-x: hidden;
-    height: 100vh;
+    height: 100%;
     overflow-y: scroll;
     background: var(--colorBackground);
     color: var(--colorText);
