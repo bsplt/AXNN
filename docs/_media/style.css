@@ -178,7 +178,7 @@ td:first-child {
 /* Bringing footer to bottom */
 
 .markdown-section {
-    height: 100%;
+    height: calc(100vh - env(safe-area-inset-bottom));
     display: flex;
     flex-direction: column;
 }
