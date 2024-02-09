@@ -7,6 +7,6 @@ Archive of selected works.
 
 [TerraIncognito Dossier](terra.md) (2017) is a fictional narrative about politically motivated cyber attacks on mapping services. The story revolves around a virus that attempts to manipulate the representation of the Earth.
 
-[Quant](quant.md) (2015) is an abstract short film about the incomprehensible environment of the first algorithmic stock market crash 2010 from the point of view of a trading algorithm.
+[Quant](quant.md) (2015) is an abstract short film about the incomprehensible environment of the first algorithmic stock market crash in 2010 from the point of view of a trading algorithm.
 
 <div class="homepage"></div>
