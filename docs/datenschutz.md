@@ -1,4 +1,6 @@
-# Datenschutzerklärung
+# Privacy policy
+
+Datenschutzerklärung
 
 ## Hosting
 
