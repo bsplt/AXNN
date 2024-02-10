@@ -1,5 +1,3 @@
-# Alexander Lehmann
-
 Alexander Lehmann, creator of technological artefacts. <br />
 Archive of selected works.
 

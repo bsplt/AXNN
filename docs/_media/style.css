@@ -67,7 +67,7 @@ html {
         (var(--count) + var(--margin) * 2)
     );
 
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
   
 @media (max-width: 688px) {
@@ -83,7 +83,7 @@ html {
 .content {
     display: flex;
     justify-content: center;
-    overflow-x: hidden;
+    /*overflow-x: hidden;*/
     height: 100svh;
     overflow-y: scroll;
     background: var(--colorBackground);
