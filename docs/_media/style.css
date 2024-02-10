@@ -85,7 +85,7 @@ html {
     justify-content: center;
     /*overflow-x: hidden;*/
     height: 100svh;
-    overflow-y: scroll;
+    /*overflow-y: scroll;*/
     background: var(--colorBackground);
     color: var(--colorText);
 }
@@ -95,7 +95,7 @@ html {
     margin-left: calc(var(--margin) * 0.5rem);
     margin-right: calc(var(--margin) * 0.5rem);
     margin-top: calc(var(--margin) * 0rem);
-    overflow: visible;
+    /*overflow: visible;*/
     height: max-content;
 }
 
