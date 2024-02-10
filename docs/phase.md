@@ -8,11 +8,7 @@
 
 ![Phase Total](./_images/al23_phase_total_daylight.webp)
 
-<div class='embed-container'>
-
-![Excerpt](https://www.youtube.com/embed/k80ZGDLzbgk?rel=0&modestbranding=1&showinfo=0&fs=0&controls=2 ":include :type=iframe width=100%")
-
-</div>
+<div class='embed-container'><iframe src="https://www.youtube-nocookie.com/embed/k80ZGDLzbgk?vq=hd1080&modestbranding=1&rel=0" title="Phase – Performance Excerpt" frameborder="0" allowfullscreen></iframe></div>
 
 Phase is a kinetic and sonic installation that generates visual and auditory patterns through physical changes. The project was completed in October 2023. Drawing on the history of materials in art, such as tapestry and painting, I used a mechanized frame and fabric as the medium. My aim was to create a dynamic and immersive experience for the audience that could be read in a multitude of ways.
 
@@ -36,8 +32,4 @@ The piece consists of 47 modules made from motorized electronics and fabric loop
 
 Half coloured in black and white, the loops allow Phase to change its entire appearance in intermediate steps by rotating. The rotation of the canvas-like fabric loops on the rollers is controlled by magnetic sensors, allowing a precise configuration of the image. Microcontrollers use musical frequencies in the form of a 12-step Western chromatic scale to drive the motors at a set speed. A skeleton of aluminium profiles arranges these modules to create the overall appearance. Phase is a free-standing or wall-mounted installation.
 
-<div class='embed-container'>
-
-![Performance](https://www.youtube.com/embed/E0095yhbdls?rel=0&modestbranding=1&showinfo=0&fs=0&controls=2 ":include :type=iframe width=100%")
-
-</div>
+<div class='embed-container'><iframe src="https://www.youtube-nocookie.com/embed/E0095yhbdls??vq=hd1080&modestbranding=1&rel=0" title="Phase – Performance Excerpt" frameborder="0" allowfullscreen></iframe></div>
