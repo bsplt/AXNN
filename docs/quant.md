@@ -5,7 +5,7 @@
 | Type | Short Film |
 | Year | 2015       |
 
-<div class='embed-container'><div class='embed-container'><iframe src="https://www.youtube-nocookie.com/embed/7m2YVcR1rLw?vq=hd1080&modestbranding=1&rel=0" title="Quant" frameborder="0" allowfullscreen></iframe></div></div>
+<div class='embed-container'><iframe src="https://www.youtube-nocookie.com/embed/7m2YVcR1rLw?vq=hd1080&modestbranding=1&rel=0" title="Quant" frameborder="0" allowfullscreen></iframe></div>
 
 Data visualisations in the incomprehensible environment of the first algorithmic stock market crash. A film from the point of view of a trading algorithm.
 
