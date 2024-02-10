@@ -5,11 +5,7 @@
 | Type | Short Film, Installation |
 | Year | 2017                     |
 
-<div class='embed-container'>
-
-![Excerpt](https://www.youtube.com/embed/w-6fRIua-BM?rel=0&modestbranding=1&showinfo=0&fs=0&controls=2 ":include :type=iframe width=100%")
-
-</div>
+<div class='embed-container'><iframe src="https://www.youtube-nocookie.com/embed/w-6fRIua-BM?vq=hd1080&modestbranding=1&rel=0" title="TerraIncognita Dossier" frameborder="0" allowfullscreen></iframe></div>
 
 The TerraIncognita Dossier is a fictional narrative about cyber attacks on mapping services, in which a virus attempts to alter the digital representation of the Earth's surface for the benefit of a few. The project challenges our perception of space, the trustworthiness of digital data and the general intention of maps. A textual timeline of events unravels the events of the W32.TerraIncognita virus into an exciting cybersecurity story.
 

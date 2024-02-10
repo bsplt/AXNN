@@ -24,12 +24,8 @@ The piece consists of 47 modules made from motorized electronics and fabric loop
 
 ![Simulation](./_images/al23_phase_simulation.webp)
 
-<div class='embed-container'>
-
-[Phase Simulation](https://player.vimeo.com/video/874696401?h=419a94173b&title=0&byline=0&portrait=0 ":include :type=iframe width=100%")
-
-</div>
+<div class='embed-container'><iframe src="https://player.vimeo.com/video/874696401?h=419a94173b&loop=1&title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 Half coloured in black and white, the loops allow Phase to change its entire appearance in intermediate steps by rotating. The rotation of the canvas-like fabric loops on the rollers is controlled by magnetic sensors, allowing a precise configuration of the image. Microcontrollers use musical frequencies in the form of a 12-step Western chromatic scale to drive the motors at a set speed. A skeleton of aluminium profiles arranges these modules to create the overall appearance. Phase is a free-standing or wall-mounted installation.
 
-<div class='embed-container'><iframe src="https://www.youtube-nocookie.com/embed/E0095yhbdls??vq=hd1080&modestbranding=1&rel=0" title="Phase – Performance Excerpt" frameborder="0" allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src="https://www.youtube-nocookie.com/embed/E0095yhbdls??vq=hd1080&modestbranding=1&rel=0" title="Phase – Full Documentation" frameborder="0" allowfullscreen></iframe></div>
