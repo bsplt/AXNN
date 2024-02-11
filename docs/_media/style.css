@@ -192,3 +192,7 @@ blockquote > p {
     color: var(--themeA);
     padding: 0.25rem;
 }
+
+a[href]:not(:where( [href^="#"], [href^="/"]:not([href^="//"]))):before {
+    content: '➫ ';
+}
