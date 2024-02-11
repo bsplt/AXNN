@@ -11,5 +11,5 @@ Bismarckstr. 188 <br />
 ## Kontakt
 
 Instagram: [@a_von_b](https://www.instagram.com/a_von_b/) <br />
-GitHub: [@bsplt](https://github.com/bsplt)
+GitHub: [@bsplt](https://github.com/bsplt) <br />
 LinkedIn: [Alexander Lehmann](https://www.linkedin.com/in/alexander-lehmann-6b249a1a5/)
